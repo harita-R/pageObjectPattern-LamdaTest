@@ -1,5 +1,5 @@
-user= process.env.LT_USERNAME || "haritagr16",
-key= process.env.LT_ACCESS_KEY || "KhRUhWBtSMg06DfGkKDY1khYNJm95695WV42HfaYPot7nqQfw6",
+user= process.env.LT_USERNAME || "your_username",
+key= process.env.LT_ACCESS_KEY || "your_access_key",
  
 exports.config = {
     user,
